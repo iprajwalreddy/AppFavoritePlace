@@ -14,6 +14,7 @@
 		E6E18F491E6F3686005B4489 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6E18F471E6F3686005B4489 /* LaunchScreen.storyboard */; };
 		E6E18F541E6F3686005B4489 /* favorite_placeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E18F531E6F3686005B4489 /* favorite_placeTests.swift */; };
 		E6E18F5F1E6F3686005B4489 /* favorite_placeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E18F5E1E6F3686005B4489 /* favorite_placeUITests.swift */; };
+		E6E18F6D1E6F3BDE005B4489 /* DetailVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E18F6C1E6F3BDE005B4489 /* DetailVCViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E6E18F5A1E6F3686005B4489 /* favorite-placeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "favorite-placeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6E18F5E1E6F3686005B4489 /* favorite_placeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = favorite_placeUITests.swift; sourceTree = "<group>"; };
 		E6E18F601E6F3686005B4489 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6E18F6C1E6F3BDE005B4489 /* DetailVCViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailVCViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				E6E18F451E6F3686005B4489 /* Assets.xcassets */,
 				E6E18F471E6F3686005B4489 /* LaunchScreen.storyboard */,
 				E6E18F4A1E6F3686005B4489 /* Info.plist */,
+				E6E18F6C1E6F3BDE005B4489 /* DetailVCViewController.swift */,
 			);
 			path = "favorite-place";
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				E6E18F411E6F3686005B4489 /* ViewController.swift in Sources */,
 				E6E18F3F1E6F3686005B4489 /* AppDelegate.swift in Sources */,
+				E6E18F6D1E6F3BDE005B4489 /* DetailVCViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
